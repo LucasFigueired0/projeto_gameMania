@@ -65,7 +65,7 @@ body {
     text-decoration: none;
 }
 
-@media(max-width:991px) {
+@media screen and (max-width:991px) {
     .area-login {
         background: rgba(11, 31, 59, 0.5);
         border-radius: 15px;
@@ -117,7 +117,7 @@ body {
     }
 }
 
-@media(max-width:768px) {
+@media screen and (max-width:768px) {
     .area-login {
         position: relative;
         background: rgba(11, 31, 59, 0.5);

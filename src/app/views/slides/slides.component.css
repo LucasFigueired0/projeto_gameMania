@@ -1,4 +1,7 @@
 /* CARROSSEL - SLIDE -------------------------------------------------------------------------------------*/
+* {
+    font-family: 'Montserrat', sans-serif;
+}
 
 .carrossel
 {
@@ -38,7 +41,7 @@
     margin-bottom: 5rem;
 }
 
-@media(max-width: 783px)
+@media screen and (max-width: 783px)
 {
     .texto-carrosssel {
         margin-top: 2.3rem;
@@ -53,7 +56,7 @@
         font-size: 16px;
     }
 }
-@media(max-width:438px) {
+@media screen and (max-width:438px) {
     /* ----------------------------------------------------------- */
     /* SLIDE CARROSSEL */
     .texto-carrosssel {

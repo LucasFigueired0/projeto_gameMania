@@ -609,7 +609,7 @@
 
 /* ############################################################################################### */
 
-@media(max-width:991px) {
+@media screen and (max-width:991px) {
 
     /* NAVBAR */
     .menu-icon {
@@ -639,7 +639,7 @@
     
 }
 
-@media(max-width:783px) {
+@media screen and (max-width:783px) {
     .dropdown-menu {
         visibility: hidden;
         width: 0;
@@ -903,7 +903,7 @@
     }
 }
 
-@media(max-width:583px) {
+@media screen and (max-width:583px) {
     /* NAVBAR */
 
 
@@ -1018,7 +1018,7 @@
     }
 }
 
-@media(max-width:438px) {
+@media screen and (max-width:438px) {
     .btn-vermais {
         margin-top: 1rem;
         width: 20%;
